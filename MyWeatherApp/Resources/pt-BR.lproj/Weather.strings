@@ -1,0 +1,11 @@
+/* 
+  Weather.strings
+  MyWeatherApp
+
+  Created by Augusto Monteiro on 09/01/22.
+  
+*/
+
+"WEATHER_VIEW_TITLE" = "Clima";
+
+"WEATHER_VIEW_CONNECTION_ERROR" = "Não foi possível carregar o conteúdo da página.";
